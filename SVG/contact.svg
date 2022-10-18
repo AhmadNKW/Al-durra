@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="65" height="65" viewBox="0 0 65 65">
+  <defs>
+    <filter id="contact-svgrepo-com" x="0" y="0" width="65" height="65" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feFlood flood-opacity="0.678"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#contact-svgrepo-com)">
+    <path id="contact-svgrepo-com-2" data-name="contact-svgrepo-com" d="M49.5,2H12A5,5,0,0,0,7,7v7.5H2v5H7v5H2v5H7v5H2v5H7V47a5,5,0,0,0,5,5H49.5A2.5,2.5,0,0,0,52,49.5V4.5A2.5,2.5,0,0,0,49.5,2Zm-20,7.5A7.5,7.5,0,1,1,22,17,7.527,7.527,0,0,1,29.5,9.5ZM44.5,42h-30V40.125c0-5.548,6.762-11.25,15-11.25s15,5.7,15,11.25Z" transform="translate(5.5 2.5)" fill="#89ca9e"/>
+  </g>
+</svg>

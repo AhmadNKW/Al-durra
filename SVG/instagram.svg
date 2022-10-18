@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="75" height="75" viewBox="0 0 75 75">
+  <defs>
+    <filter id="Path_596" x="9.101" y="12.101" width="56.799" height="56.799" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.349"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_597" x="18.509" y="21.51" width="37.982" height="37.981" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.349"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_598" x="36.391" y="18.589" width="23.046" height="23.045" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.349"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="instagram-logo-svgrepo-com" transform="translate(20.4 20.4)">
+    <circle id="Ellipse_1" data-name="Ellipse 1" cx="37.5" cy="37.5" r="37.5" transform="translate(-20.4 -20.4)" fill="#89ca9e"/>
+    <g transform="matrix(1, 0, 0, 1, -20.4, -20.4)" filter="url(#Path_596)">
+      <path id="Path_596-2" data-name="Path 596" d="M28.091,0H10.707A10.719,10.719,0,0,0,0,10.707V28.092A10.719,10.719,0,0,0,10.707,38.8H28.091A10.719,10.719,0,0,0,38.8,28.092V10.707A10.719,10.719,0,0,0,28.091,0Zm7.265,28.092a7.273,7.273,0,0,1-7.265,7.265H10.707a7.273,7.273,0,0,1-7.264-7.265V10.707a7.273,7.273,0,0,1,7.264-7.265H28.091a7.273,7.273,0,0,1,7.265,7.265V28.092Z" transform="translate(18.1 18.1)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -20.4, -20.4)" filter="url(#Path_597)">
+      <path id="Path_597-2" data-name="Path 597" d="M50.959,40.97a9.991,9.991,0,1,0,9.991,9.991A10,10,0,0,0,50.959,40.97Zm0,16.541a6.55,6.55,0,1,1,6.551-6.55A6.558,6.558,0,0,1,50.959,57.511Z" transform="translate(-13.46 -13.46)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -20.4, -20.4)" filter="url(#Path_598)">
+      <path id="Path_598-2" data-name="Path 598" d="M121.444,28.251a2.521,2.521,0,1,0,1.784.738A2.533,2.533,0,0,0,121.444,28.251Z" transform="translate(-73.53 -3.66)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

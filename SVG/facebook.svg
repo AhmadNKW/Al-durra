@@ -1,0 +1,15 @@
+<svg id="facebook-svgrepo-com" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="75" height="75" viewBox="0 0 75 75">
+  <defs>
+    <filter id="Path_600" x="19.379" y="12.117" width="36.238" height="56.625" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.349"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <path id="Path_599" data-name="Path 599" d="M37.5,0A37.5,37.5,0,1,1,0,37.5,37.5,37.5,0,0,1,37.5,0Z" fill="#89ca9e"/>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Path_600)">
+    <path id="Path_600-2" data-name="Path 600" d="M122.686,79.9h4.688V72.547h-5.511v.027c-6.677.251-8.046,4.237-8.166,8.423h-.014v3.672h-4.547v7.2h4.547v19.3h6.852v-19.3h5.613l1.084-7.2h-6.7V82.449A2.321,2.321,0,0,1,122.686,79.9Z" transform="translate(-80.76 -54.43)" fill="#fff"/>
+  </g>
+</svg>
